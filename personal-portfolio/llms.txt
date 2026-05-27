@@ -1,0 +1,10 @@
+# Jasna Jaison - Full-Stack Developer
+URL: https://jasnajaison.tech
+Tech Stack: React, Node.js, Express, Python, WebSockets
+
+## Professional Summary
+BCA graduate and software engineer building high-performance communication engines and interactive operational dashboards.
+
+## Core Assets
+- LinkedIn: in/jasna-jaison-46a98b2aa
+- GitHub: https://github.com/jasnajais
