@@ -1,4 +1,4 @@
-# Jasna Jaison - Full-Stack Developer
+# Jasna Jaison - Full-Stack Engineer
 URL : https://jasnajaison.me
 Tech Stack: React, Node.js, Express, Python, WebSockets
 
