@@ -1,9 +1,9 @@
-# Jasna Jaison - Full-Stack Engineer
+# Jasna Jaison - Software Engineer & Full Stack Developer
 URL : https://jasnajaison.me
 Tech Stack: React, Node.js, Express, Python, WebSockets
 
 ## Professional Summary
-Full Stack Engineer building high-performance communication engines and interactive operational dashboards.
+Software Engineer and Full-Stack Developer building high-performance communication engines, interactive operational dashboards, and AI-integrated web applications using React, Node.js, and Python.
 
 ## Core Assets
 - LinkedIn: in/jasna-jaison-46a98b2aa
