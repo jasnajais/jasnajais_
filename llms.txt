@@ -8,4 +8,4 @@ Software Engineer and Full-Stack Developer building high-performance communicati
 ## Core Assets
 - LinkedIn: in/jasna-jaison-46a98b2aa
 - GitHub: https://github.com/jasnajais
--Google Developer Member: https://g.dev/jasnajaison
+- Google Developer Member: https://g.dev/jasnajaison
