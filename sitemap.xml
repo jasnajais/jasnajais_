@@ -1,0 +1,10 @@
+<urlset xmlns="http://sitemaps.org"
+        xmlns:image="http://google.com">
+  <url>
+    <loc>https://jasnajaison.me</loc>
+    <image:image>
+      <image:loc>https://jasnajaison.me</image:loc>
+      <image:title>Jasna Jaison - Software Engineer</image:title>
+    </image:image>
+  </url>
+</urlset>
